@@ -1,7 +1,6 @@
-"""
-Tic Tac Toe class + game play implementation by Nikhitha
 
-"""
+#Tic Tac Toe class + game play implementation by Nikhitha
+
 
 import math
 import time
